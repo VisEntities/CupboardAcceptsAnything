@@ -10,7 +10,7 @@ using System.Collections.Generic;
 namespace Oxide.Plugins
 {
     [Info("Cupboard Accepts Anything", "VisEntities", "1.0.0")]
-    [Description(" ")]
+    [Description("Lets you put any item in tool cupboards.")]
     public class CupboardAcceptsAnything : RustPlugin
     {
         #region Fields
